@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "open": "0.0.5",
-    "request": "^2.83.0"
+    "request": "^2.87.0"
   }
 }
